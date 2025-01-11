@@ -1,0 +1,8 @@
+pypdf
+langchain
+langcahin_chroma
+langcahin_ollama
+langchain_community
+chromadb
+pytest
+streamlit
