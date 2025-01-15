@@ -1,4 +1,4 @@
-pypdf
+PyPDF2
 langchain
 langcahin_chroma
 langcahin_ollama
