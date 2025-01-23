@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Setup and Execution
 - Clone the Repository:
 ```bash
-git clone https://github.com/username/financial-question-answering.git
+git clone https://github.com/eaysu/financial-question-answering.git
 cd financial-question-answering
 ```
 - Prepare Data Folders:
@@ -46,7 +46,8 @@ streamlit run app.py
     - Step 4: Select the Ollama model to answer your questions.
     - Step 5: Enter your question and review the answers.
 
-## Usage Workflow
+
+## Usage Workflow
 - Launch the application.
 - Select the category to define the context of your question.
 - Upload your PDF documents and update the database.
